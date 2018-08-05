@@ -1,0 +1,60 @@
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\csc.exe
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\vbc.exe
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.dll.config
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.pdb
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.dll
+C:\Users\Akinmyde\Desktop\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.pdb
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\csc.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\vbc.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.dll.config
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\Sales Inventory System.pdb
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System\Sales Inventory System\obj\Debug\Sales Inventory System.pdb
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\csc.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\vbc.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\Sales Inventory System.dll.config
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\Sales Inventory System.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\Sales Inventory System.pdb
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\obj\Debug\Sales Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\obj\Debug\Sales Inventory System.dll
+C:\Users\Akinmyde\Documents\Coding\Asp.net\Sales Inventory System(Mr Victor)\Sales Inventory System\obj\Debug\Sales Inventory System.pdb
